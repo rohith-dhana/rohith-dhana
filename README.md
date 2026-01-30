@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there! 👋
 
-<!--
-**rohith-dhana/rohith-dhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rohith, an Artificial Intelligence & Machine Learning student based in India.
 
-Here are some ideas to get you started:
+I'm currently focused on building a strong foundation in AI, ML and programming. Always trying to level up my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+1. Python
+2. C
+
+Interests
+1. Movies & Series
+2. Music
+3. Cricket
